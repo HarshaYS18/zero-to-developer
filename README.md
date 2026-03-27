@@ -12,7 +12,10 @@ This repository documents my journey from beginner to job-ready software develop
 
 ## 📅 Progress
 
-* Day 1: Git setup, README created
+* Day 0: Git setup, README created
+
+* Day 1: Focus on the core building blocks of Python: lists, dictionaries, loops, and conditionals.
+
 
 ## 💻 Projects
 
