@@ -10,13 +10,9 @@ This repository documents my journey from beginner to job-ready software develop
 * Build real-world projects
 * Become job-ready for a developer role
 
-## 📅 Progress Tracker
+## 📅 Progress
 
-| Day | Topic | Status |
-|-----|------|--------|
-| Day 1 | Python Basics (Lists, Dicts, Conditionals) | ✅ Completed |
-| Day 2 | Loops & Problem Solving | ✅ Completed |
-| Day 3 | Functions | 🔜 Upcoming |
+* Day 1: Git setup, README created
 
 ## 💻 Projects
 
