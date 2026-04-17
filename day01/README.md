@@ -123,4 +123,4 @@ The factorial of 5 is 120
 
 ---
 ---
-*Fundamentals set. Ready for the next challenge.* ⚡
+*Fundamentals set. Ready for the next challenge.*⚡
