@@ -44,3 +44,4 @@ This day was focused on mastering loops through problem-solving. I practiced var
 ## 📌 Next Step
 
 ➡️ Moving to **Functions in Python** (Day 3)
+
