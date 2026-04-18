@@ -11,4 +11,4 @@ This file tracks areas where I struggled during practice and how I plan to impro
 - Made syntax mistake:
   ```python
   freq[num] = +1   # ❌ Wrong
-  freq[num] += 1   # ✅ Correct
+  freq[num] += 1   # ✅ Correct 
