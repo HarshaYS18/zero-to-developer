@@ -16,7 +16,7 @@ This folder contains 10 structured problems:
 3. problem3_factorial.py  
 4. problem4_max_number.py  
 5. problem5_second_smallest.py  
-6. problem6_second_largest.py  
+6. problem6_second_largest.py   
 7. problem7_third_ls(dup allowed).py  
 8. problem8_thirdLS(distinct).py  
 9. problem9_kthsmall&kthlarge(dup allowed).py  
