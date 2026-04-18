@@ -1,12 +1,12 @@
 a = list(map(int, input("Enter numbers:").split()))
 
-a.sort()
-
 b = []
 
 for num in a:
     if num not in b:
         b.append(num)
+
+b.sort()
 
 k = int(input("Enter the minimum you want to find:"))
 

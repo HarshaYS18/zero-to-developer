@@ -13,7 +13,7 @@ else:
     print("There is no such minimum: \n", "Try Again:-(")
 
 if l > 0 and l <= len(a):
-    req_max = a[len(a)-k]
-    print (k,"th", "largest is:", req_max)
+    req_max = a[len(a)-l]
+    print (l,"th", "largest is:", req_max)
 else:
     print("There is no such maximum: \n", "Try Again:-(")

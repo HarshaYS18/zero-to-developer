@@ -1,7 +1,7 @@
 a = list(map(int, input("Enter numbers:").split()))
 
 aLarge = a[0]
-bLarge = float('inf')
+bLarge = -float('inf')
 
 for num in a:
     if aLarge < num:
