@@ -2,7 +2,16 @@
 
 ## 📌 About
 
-This repository documents my journey from beginner to job-ready software developer in 90 days.
+This repository documents my journey from beginner to job-ready software developer in a structured and disciplined way.
+
+I am focusing on:
+
+* Python fundamentals
+* Data Structures & Algorithms
+* Problem-solving skills
+* Real-world project building
+
+---
 
 ## 🎯 Goal
 
@@ -14,16 +23,20 @@ This repository documents my journey from beginner to job-ready software develop
 
 ## 📅 Progress Tracker
 
-| Day   | Topic                                      | Status      |
-| ----- | ------------------------------------------ | ----------- |
-| Day 1 | Python Basics (Lists, Dicts, Conditionals) | ✅ Completed |
-| Day 2 | Loops & Problem Solving                    | ✅ Completed |
-| Day 3 | Functions & Advanced List Logic            | ✅ Completed |
-| Day 4 | Dictionaries & Frequency-Based Problems    | ✅ Completed |
+| Day     | Topic                                      | Status      |
+| ------- | ------------------------------------------ | ----------- |
+| Day 1   | Python Basics (Lists, Dicts, Conditionals) | ✅ Completed |
+| Day 2   | Loops & Problem Solving                    | ✅ Completed |
+| Day 3   | Functions & Advanced List Logic            | ✅ Completed |
+| Day 4   | Dictionaries & Frequency-Based Problems    | ✅ Completed |
+| Day 5   | Two Sum & Kadane’s Algorithm               | ✅ Completed |
+| Day 6   | Kadane (Deep Dive + Indices)               | ✅ Completed |
+| Day 7–9 | Sliding Window (Learning Phase)            | ⚠️ Extended |
+| Day 10  | Sliding Window Mastery                     | ✅ Completed |
 
 ---
 
-## 📅 Day 1 – Python Fundamentals 🐍
+# 📅 Day 1 – Python Fundamentals 🐍
 
 ### 🚀 What I Did
 
@@ -32,222 +45,252 @@ This repository documents my journey from beginner to job-ready software develop
 
 ### 📚 Topics Covered
 
-* Lists
-
-  * input handling
-  * iteration
-  * basic operations
-
-* Dictionaries
-
-  * key-value structure
-  * storing and accessing data
-
-* Conditionals
-
-  * if / elif / else
-  * decision making
+* Lists (input, iteration, operations)
+* Dictionaries (key-value, access)
+* Conditionals (if / elif / else)
 
 ### 🧠 Key Learnings
 
-* How to take user input and process it
-* Writing basic logic using conditions
-* Working with lists and dictionaries
-* Building foundational problem-solving skills
+* Handling user input
+* Writing basic logic
+* Using lists and dictionaries
 
 ### ✅ Outcome
 
-* Strong understanding of Python basics
-* Able to solve simple problems independently
+* Strong Python basics
+* Able to solve simple problems
 
 ---
 
-## 📅 Day 2 – Loops & Problem Solving 🔁
+# 📅 Day 2 – Loops & Problem Solving 🔁
 
 ### 🚀 What I Did
 
 * Focused heavily on loops
-* Solved multiple logic-based problems
+* Solved logic-based problems
 * Implemented functions
 
 ### 📚 Topics Covered
 
-* Loops
-
-  * for loops
-  * while loops
-  * nested loops
-  * range()
-
-* Problem Solving
-
-  * sum of list
-  * reverse string
-  * factorial
-  * max element
-  * removing duplicates
+* for, while, nested loops
+* range()
+* sum, reverse, factorial, max, duplicates
 
 ### 🧠 Key Learnings
 
-* Iterating through lists effectively
-* Building logic step-by-step using loops
-* Understanding nested loop behavior
+* Iteration mastery
+* Step-by-step logic building
 * Writing reusable functions
 
-### ⚠️ Mistakes I Fixed
+### ⚠️ Mistakes Fixed
 
-* Incorrect loop conditions
 * Infinite loops
-* Logic errors in iteration
+* Wrong conditions
 
 ### ✅ Outcome
 
-* Strong control over loops
-* Able to solve intermediate-level problems
-* Confidence in writing logic without copying
+* Strong loop control
+* Confidence in logic building
 
 ---
 
-## 📅 Day 3 – Functions & Advanced List Logic 🔢
+# 📅 Day 3 – Functions & Advanced List Logic 🔢
 
 ### 🚀 What I Did
 
-* Solved structured problems using functions
-* Practiced advanced list logic
-* Worked with duplicates and distinct values
+* Built structured functions
+* Solved min/max and K-th problems
 
 ### 📚 Topics Covered
 
 * Functions
-
-  * sum of list
-  * reverse string
-  * factorial
-  * max number
-
-* Min/Max Logic
-
-  * second smallest & largest
-  * third smallest & largest
-
-* K-th Elements
-
-  * K-th smallest & largest (duplicates & distinct)
-
-* Duplicate Handling
-
-  * manual duplicate removal
-  * handling distinct values
+* Second/third smallest & largest
+* K-th smallest/largest
+* Duplicate handling
 
 ### 🧠 Key Learnings
 
-* Writing reusable functions
-* Single-pass logic using loops
-* Tracking multiple values efficiently
-* Difference between duplicates vs distinct
-* Sorting + indexing logic (`k-1`, `len(a)-k`)
+* Reusable logic
+* Efficient value tracking
+* Sorting/indexing logic
 
-### ⚠️ Mistakes I Fixed
+### ⚠️ Mistakes Fixed
 
-* `a = a.sort()` ❌
-* `b = b.append()` ❌
-* Wrong index validation
-* Mixing variables (`k` vs `l`)
-* Double-processing first element
+* sort() misuse
+* append() misuse
+* wrong indexing
 
 ### ✅ Outcome
 
-* Confident with functions
-* Able to solve min/max problems without built-ins
-* Can handle K-th smallest/largest problems
-* Writing cleaner and structured code
+* Strong function usage
+* Clean structured code
 
 ---
 
-## 📅 Day 4 – Dictionaries & Frequency Problems 📊
+# 📅 Day 4 – Dictionaries & Frequency Problems 📊
 
 ### 🚀 What I Did
 
-* Learned and applied frequency map logic
-* Solved real-world style problems using dictionaries
+* Applied frequency maps
+* Solved real-world problems
 
 ### 📚 Topics Covered
 
-* Frequency Maps
-
-  * counting occurrences using dictionaries
-
-* Duplicate Problems
-
-  * detecting duplicates
-  * removing duplicates
-
-* List Operations
-
-  * intersection
-  * union
-
-* Order-Based Problems
-
-  * first duplicate element
-
-* String Logic
-
-  * anagram checking using dictionaries
+* Frequency maps
+* Duplicate detection
+* Union & intersection
+* Anagram checking
 
 ### 🧠 Key Learnings
 
-* Using dictionaries for efficient problem solving
-* Understanding hashing mindset
-* Comparing frequency maps
-* Writing optimized solutions instead of brute force
+* Hashing mindset
+* Efficient problem solving
 
-### ⚠️ Mistakes I Fixed
+### ⚠️ Mistakes Fixed
 
-* `freq[num] = +1` ❌ → `freq[num] += 1` ✅
-* Checking in wrong data structure
-* Overwriting values incorrectly
+* freq[num] = +1 ❌ → += 1 ✅
 
 ### ✅ Outcome
 
-* Strong understanding of dictionary-based logic
-* Able to solve frequency and duplicate problems
-* Improved problem-solving efficiency
+* Strong dictionary usage
+* Optimized logic
 
 ---
 
-## 🧠 Recap & Deep Testing (Day 1 – Day 4)
+# 📅 Day 5 – Core DSA (Two Sum & Kadane) 🔥
 
-### 📌 Topics Revised
+### 🚀 What I Did
 
-* Loops and nested loops
-* Functions and modular logic
-* List operations and edge cases
-* Pattern problems (numbers & alphabets)
-* Dictionaries and frequency maps
-* Duplicate and anagram problems
+* Learned optimal problem solving
+* Implemented Kadane
 
-### 🧪 Approach
+### 📚 Topics Covered
 
-* Solved problems without built-in shortcuts
-* Focused on step-by-step logic
-* Reworked mistakes and improved solutions
-* Practiced edge case handling
+* Two Sum (hashing)
+* Kadane’s Algorithm
 
-### 🚀 Outcome
+### 🧠 Key Learnings
 
-* Strong logical thinking foundation
-* Better confidence in solving problems independently
-* Improved coding structure and clarity
+* Complement logic
+* Dropping negative sum
+
+### ✅ Outcome
+
+* Optimal problem solving ability
+
+---
+
+# 📅 Day 6 – Kadane Deep Dive 📈
+
+### 🚀 What I Did
+
+* Tracked indices
+* Extracted subarray
+
+### 📚 Topics Covered
+
+* Kadane with indices
+* Subarray extraction
+
+### 🧠 Key Learnings
+
+* Restart logic
+* Tracking best window
+
+### ✅ Outcome
+
+* Full Kadane mastery
+
+---
+
+# 📅 Day 7–9 – Sliding Window (Learning Phase) ⚠️
+
+### 🚀 What I Did
+
+* Practiced sliding window
+* Faced implementation challenges
+
+### 📚 Topics Covered
+
+* Fixed window
+* Variable window
+
+### 🧠 Key Learnings
+
+* Window size formula
+* Expand vs shrink
+
+### ⚠️ Challenges
+
+* Logic → code translation
+
+---
+
+# 📅 Day 10 – Sliding Window Mastery 🔥
+
+### 🚀 What I Did
+
+* Fully implemented sliding window
+* Solved both patterns
+
+### 📚 Topics Covered
+
+Fixed Window:
+
+* Max sum of subarray of size k
+
+Variable Window:
+
+* Longest substring without repeating
+
+### 🧠 Key Learnings
+
+* Fixed → size controlled
+* Variable → condition controlled
+* while loop for shrinking
+* set for tracking
+
+### ✅ Outcome
+
+* Built sliding window from scratch
+* Converted logic → code
+
+---
+
+# 🧠 Recap & Deep Testing
+
+### Topics Covered
+
+* Loops
+* Functions
+* Lists
+* Hashing
+* Kadane
+* Sliding Window
+
+### Outcome
+
+* Strong logical foundation
+* Better problem-solving confidence
+
+---
+
+## 📈 Current Status
+
+Foundation Phase: ██████████ 100% COMPLETE
 
 ---
 
 ## 💻 Projects
 
-*Coming soon...*
+Coming soon:
+
+* Number Analyzer + Calculator
 
 ---
 
 ## 🙋‍♂️ Author
 
 Harsha Reddy
+
+---

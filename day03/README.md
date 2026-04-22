@@ -101,3 +101,5 @@ This folder contains 10 structured problems:
 - Misusing `.sort()`:
   ```python
   a = a.sort() ❌
+
+  # minor update
